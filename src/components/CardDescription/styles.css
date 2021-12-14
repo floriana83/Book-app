@@ -1,0 +1,44 @@
+.card-description {
+    width: 300px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 16px -4px rgba(0, 0, 0, 0.25);
+    padding: 40px;
+    position: relative;
+    margin-top: -25px;
+    z-index: 2;
+  }
+  
+  .card-description__priceTitle {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  
+  .card-description__price,
+  .card-description__title {
+    font-size: 15px;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .card-description__descriptionContainer {
+    height: 50px;
+    overflow: hidden;
+  }
+  
+  .card-description__description {
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    text-align: left;
+    margin-bottom: 14px;
+  }
+  
+  .card-description__colors {
+    margin-top: 14px;
+    display: flex;
+    flex-wrap: wrap;
+  }
