@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.818b669d.chunk.css",
-    "main.js": "/static/js/main.ba101d8e.chunk.js",
-    "main.js.map": "/static/js/main.ba101d8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.161030e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.161030e2.js.map",
-    "static/js/2.a5b2a630.chunk.js": "/static/js/2.a5b2a630.chunk.js",
-    "static/js/2.a5b2a630.chunk.js.map": "/static/js/2.a5b2a630.chunk.js.map",
-    "static/js/3.8bcdc62c.chunk.js": "/static/js/3.8bcdc62c.chunk.js",
-    "static/js/3.8bcdc62c.chunk.js.map": "/static/js/3.8bcdc62c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.818b669d.chunk.css.map": "/static/css/main.818b669d.chunk.css.map",
-    "static/js/2.a5b2a630.chunk.js.LICENSE.txt": "/static/js/2.a5b2a630.chunk.js.LICENSE.txt"
+    "main.css": "/Book-app/static/css/main.818b669d.chunk.css",
+    "main.js": "/Book-app/static/js/main.ba101d8e.chunk.js",
+    "main.js.map": "/Book-app/static/js/main.ba101d8e.chunk.js.map",
+    "runtime-main.js": "/Book-app/static/js/runtime-main.2e40c89d.js",
+    "runtime-main.js.map": "/Book-app/static/js/runtime-main.2e40c89d.js.map",
+    "static/js/2.a5b2a630.chunk.js": "/Book-app/static/js/2.a5b2a630.chunk.js",
+    "static/js/2.a5b2a630.chunk.js.map": "/Book-app/static/js/2.a5b2a630.chunk.js.map",
+    "static/js/3.8bcdc62c.chunk.js": "/Book-app/static/js/3.8bcdc62c.chunk.js",
+    "static/js/3.8bcdc62c.chunk.js.map": "/Book-app/static/js/3.8bcdc62c.chunk.js.map",
+    "index.html": "/Book-app/index.html",
+    "static/css/main.818b669d.chunk.css.map": "/Book-app/static/css/main.818b669d.chunk.css.map",
+    "static/js/2.a5b2a630.chunk.js.LICENSE.txt": "/Book-app/static/js/2.a5b2a630.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.161030e2.js",
+    "static/js/runtime-main.2e40c89d.js",
     "static/js/2.a5b2a630.chunk.js",
     "static/css/main.818b669d.chunk.css",
     "static/js/main.ba101d8e.chunk.js"
